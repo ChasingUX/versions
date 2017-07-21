@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "95181DFB-6433-431E-9EFD-A8EA321AF0E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 547,
+    "x": 44,
+    "y": 998
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D49BEA64-1227-4130-A19F-7A818E415095"
+    },
+    {
+      "class": "text",
+      "id": "DA8A5DF9-5116-4563-81F6-F23593A46CB9"
+    },
+    {
+      "class": "text",
+      "id": "B5916684-7B79-49A7-862C-BB66AAC0469E"
+    },
+    {
+      "class": "group",
+      "id": "916549CF-A252-4E0A-B7F6-65C9E7C28795"
+    },
+    {
+      "class": "group",
+      "id": "60708343-C838-4957-A700-076B8C0FD63F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05BCC272-44B3-49EA-9775-5094C2A99A4D"
+    }
+  ],
+  "name": "insight",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

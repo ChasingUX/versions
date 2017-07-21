@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F59E8542-FBF2-4371-8BAF-F1968AF9E15C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 548,
+    "x": 46,
+    "y": 587
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B0EB6673-00F7-47A8-A02E-3282E61BC134"
+    },
+    {
+      "class": "text",
+      "id": "1E0B5830-4461-46BE-AB30-EBB34FD27AB5"
+    }
+  ],
+  "name": "Reservation Code",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

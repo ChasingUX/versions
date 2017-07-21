@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "172EDB3A-FFFB-4F8D-A2C1-7D5A1C0B14D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 548,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22E75BA8-D33B-4C15-BDBB-8A86EC0D25E5"
+    },
+    {
+      "class": "text",
+      "id": "35D65213-FFCE-4BB5-AD4D-F606C2FAA9EA"
+    },
+    {
+      "class": "group",
+      "id": "DA521234-D402-470F-8606-1C17947FCA00"
+    },
+    {
+      "class": "group",
+      "id": "028EACCE-3C45-4389-A387-FCAC70997BDB"
+    },
+    {
+      "class": "group",
+      "id": "D2620FC2-041F-4B0F-9178-3C6902D3E6E5"
+    }
+  ],
+  "name": "Message Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3CF3CC26-E651-400D-B8A5-C57496BA4EAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 96,
+    "x": 549,
+    "y": 812
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Stretch green",
+  "nameIsFixed": true,
+  "overrides": {
+    "22D8D6C7-E49E-4206-A717-4E699720B2F4": {
+      "symbolID": "8EC46DE0-3FD2-4A71-B3D7-FF49B9A9B3A7"
+    },
+    "41B8FBBE-6461-430B-AE3E-C58A16707006": {
+      "symbolID": "8EC46DE0-3FD2-4A71-B3D7-FF49B9A9B3A7"
+    },
+    "C931A22E-E435-4D31-8B0C-1C1D49D5D7DB": "Stretch goal"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4DDEA818-C49E-4B8A-AF4D-E1BCD5D69A7E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

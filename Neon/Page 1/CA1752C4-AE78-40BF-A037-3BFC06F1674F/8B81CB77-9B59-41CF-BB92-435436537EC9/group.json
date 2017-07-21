@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8B81CB77-9B59-41CF-BB92-435436537EC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 37.09090909090909,
+    "width": 34,
+    "x": 525,
+    "y": 1070
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7A295C0-D676-4B11-A500-947B6B0DB89D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0AF4867-7F0F-4F41-9BAB-9E2355192251"
+    }
+  ],
+  "name": "lightbulb",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
